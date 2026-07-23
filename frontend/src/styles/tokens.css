@@ -1,0 +1,58 @@
+:root {
+  /* Surfaces */
+  --color-bg: #0e1219;
+  --color-surface: #161b25;
+  --color-surface-raised: #1c2230;
+  --color-overlay: rgba(8, 10, 15, 0.72);
+
+  /* Borders */
+  --color-border: #262d3b;
+  --color-border-strong: #323c4e;
+
+  /* Text */
+  --color-text: #e8eaf1;
+  --color-text-muted: #8b93a7;
+  --color-text-faint: #5b6478;
+
+  /* Signal / accent */
+  --color-accent: #4f8fe0;
+  --color-accent-strong: #74a8ea;
+  --color-accent-wash: rgba(79, 143, 224, 0.14);
+
+  /* Severity scale - shared between badges and the row rail */
+  --severity-critical: #e5484d;
+  --severity-high: #ef9143;
+  --severity-medium: #e0b341;
+  --severity-low: #4fae84;
+
+  /* Status */
+  --status-unresolved: #e5484d;
+  --status-progress: #e0b341;
+  --status-resolved: #4fae84;
+  --status-ignored: #5b6478;
+
+  /* Feedback */
+  --color-danger: #e5484d;
+  --color-danger-wash: rgba(229, 72, 77, 0.14);
+  --color-success: #4fae84;
+  --color-success-wash: rgba(79, 174, 132, 0.14);
+
+  /* Type */
+  --font-ui: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;
+
+  /* Scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+
+  --shadow-panel: 0 20px 48px rgba(4, 6, 10, 0.55);
+  --shadow-low: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
