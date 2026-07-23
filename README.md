@@ -3,8 +3,8 @@
 A dashboard for security engineers to bulk-upload, browse and investigate system audit logs.
 Built with React (Vite), Node.js, Express and MongoDB.
 
-- **Repository:** `<add your GitHub URL here>`
-- **Live demo:** `<add your deployed URL here>`
+- **Repository:** `<https://github.com/Tejakumar02/audit-log-dashboard.git>`
+- **Live demo:** `<https://audit-log-dashboard-blush.vercel.app/>`
 - **Setup / deploy instructions:** see [`SETUP.md`](./SETUP.md)
 
 ---
